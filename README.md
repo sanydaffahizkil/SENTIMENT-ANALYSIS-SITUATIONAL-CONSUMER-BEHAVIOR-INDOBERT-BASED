@@ -106,6 +106,7 @@ The results suggest that the model is highly effective at distinguishing between
 
 
 ### Smart Marketing Solutions
-![image](https://github.com/user-attachments/assets/382b0590-fa5e-46cc-8391-f02981c5d5f5)
+![image](https://github.com/user-attachments/assets/5aecc609-361f-4762-b2d3-66637e289e7e)
+
 
 The dominant sentiment category identified is the Psychological Factor, indicating that consumer behavior in choosing products is influenced by emotional or psychological aspects. This aligns with the analysis results, which show that psychological factors play a significant role in the purchasing decisions of Mie Gacoan consumers. Based on these findings, the proposed marketing solution focuses on emotion-based marketing, aiming to strengthen consumers’ emotional connection with the Mie Gacoan brand. Marketing campaigns that highlight happiness, satisfaction, and personalized offers can enhance customer loyalty. Additionally, the use of visual content that links the product to emotional values is expected to further reinforce consumer appeal, potentially increasing customer satisfaction and boosting sales conversion for Mie Gacoan.
